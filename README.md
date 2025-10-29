@@ -16,11 +16,11 @@ projet_scraper/
 ├── main.py
 ├── requirements.txt
 └── outputs/
-    ├── csv/
-    │   ├── category_travel.csv
-    │   ├── category_poetry.csv
-    │   └── ...
-    └── img/
-        ├── Travel/
-        ├── Poetry/
-        └── ...
+├── csv/
+│ ├── category_travel.csv
+│ ├── category_poetry.csv
+│ └── ...
+└── img/
+├── Travel/
+├── Poetry/
+└── ...
