@@ -11,6 +11,7 @@ Les données collectées sont ensuite enregistrées dans des fichiers CSV et les
 - **pandas** – pour sauvegarder les données en CSV  
 
 ## 📁 Structure du projet  
+```txt
 projet_scraper/
 │
 ├── main.py
@@ -24,3 +25,4 @@ projet_scraper/
 ├── Travel/
 ├── Poetry/
 └── ...
+```
